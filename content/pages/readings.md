@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 19fb3f4f-d811-43d8-85c4-3216d3e5f41d
 ---
@@ -128,7 +131,7 @@ Intersection of business, government, and nonprofit for policy
 {{< tdopen >}}
 
 
-"A Toolkit for Foundations and Individual Investors: Harnessing Your Investments to Help Solve the Climate Crisis." Ceres. ([PDF - 4.1MB](https://core.ac.uk/download/pdf/71355398.pdf))#
+"A Toolkit for Foundations and Individual Investors: Harnessing Your Investments to Help Solve the Climate Crisis." Ceres. ([PDF - 4.1MB](https://core.ac.uk/download/pdf/71355398.pdf)){{< sup "#" >}}
 
 Download and read the PDF: "[The 21st Century Corporation: The Ceres Roadmap for Sustainability](http://www.ceres.org/ceresroadmap)." Ceres.
 
