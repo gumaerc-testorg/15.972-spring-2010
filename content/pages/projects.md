@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+parent_uid: null
 title: Projects
 uid: a6482521-a090-87d6-d603-35ca5b5d1360
 ---
@@ -17,14 +18,14 @@ Student Examples
 
 All student work is courtesy of anonymous MIT students, and is used with permission.
 
-Peapod: A Sustainability Proposal ([PDF]({{< baseurl >}}/resources/mit15_972s10_pres01))
+Peapod: A Sustainability Proposal ({{< resource_link 01777297-4fa3-7e1b-34bd-d213f9184a6f "PDF" >}})
 
-SKS Microfinance ([PDF - 1.4MB]({{< baseurl >}}/resources/mit15_972s10_pres02))
+SKS Microfinance ({{< resource_link 41bf1779-8374-dcf9-396b-834f271f5157 "PDF - 1.4MB" >}})
 
-Sustainability Initiative at Trader Joe's ([PDF]({{< baseurl >}}/resources/mit15_972s10_pres03))
+Sustainability Initiative at Trader Joe's ({{< resource_link 1a5962a4-70c9-9998-faca-f81ab88594d8 "PDF" >}})
 
-Strategic Opportunities in Sustainability: Marriott ([PDF - 2.0MB]({{< baseurl >}}/resources/mit15_972s10_pres04))
+Strategic Opportunities in Sustainability: Marriott ({{< resource_link b365fe41-266d-b320-1ca8-7608e049351a "PDF - 2.0MB" >}})
 
-Produce Traceability for Costco ([PDF]({{< baseurl >}}/resources/mit15_972s10_pres05))
+Produce Traceability for Costco ({{< resource_link d966a3b5-ef9f-9f10-72e0-cb1cd0ccfeb0 "PDF" >}})
 
-Eco-stewardship in Faith Communities ([PDF]({{< baseurl >}}/resources/mit15_972s10_pres06))
+Eco-stewardship in Faith Communities ({{< resource_link 1fa226f1-59c5-72be-79e2-c42769df9b12 "PDF" >}})
