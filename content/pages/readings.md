@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings assigned for each session
+  in preparation for the guest presentation and class discussion.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 19fb3f4f-d811-43d8-85c4-3216d3e5f41d
 ---
@@ -158,6 +159,6 @@ No assigned readings
 Additional Reading Materials
 ----------------------------
 
-"U.S. Carbon Dioxide Emissions and Intensities Over Time: A Detailed Accounting of Industries, Government, and Households." U.S. Department of Commerce Economics and Statistics Administration. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.commerce.gov/data-and-reports/reports/2010/04/us-carbon-dioxide-emissions-and-intensities-over-time-detailed-accounting))
+"U.S. Carbon Dioxide Emissions and Intensities Over Time: A Detailed Accounting of Industries, Government, and Households." U.S. Department of Commerce Economics and Statistics Administration. ([PDF](https://www.commerce.gov/data-and-reports/reports/2010/04/us-carbon-dioxide-emissions-and-intensities-over-time-detailed-accounting))
 
-"Measuring the Green Economy." U.S. Department of Commerce Economics and Statistics Administration. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4MB](http://commerce.gov/data-and-reports/reports/2010/04/measuring-green-economy))
+"Measuring the Green Economy." U.S. Department of Commerce Economics and Statistics Administration. ([PDF - 3.4MB](http://commerce.gov/data-and-reports/reports/2010/04/measuring-green-economy))
