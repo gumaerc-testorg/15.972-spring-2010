@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on meeting times, readings, attendance, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2f27d3bf-97e6-aa01-f4a6-9ffee3392ffa
 ---
