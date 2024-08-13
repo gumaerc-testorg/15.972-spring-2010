@@ -37,11 +37,11 @@ Course overview and sports/recreation
 {{< tdopen >}}
 
 
-"[Mike Richter](http://en.wikipedia.org/wiki/Mike_Richter)." Wikipedia: The Free Encyclopedia.
+"{{% resource_link "de01f230-8871-42fa-b187-e9cb94bcc876" "Mike Richter" %}}." Wikipedia: The Free Encyclopedia.
 
-Condor, Bob. "[Mike Richter Goes Green with NHL Panel at Fenway](http://www.nhl.com/ice/news.htm?id=512477)." National Hockey League.
+Condor, Bob. "{{% resource_link "d4e0e146-599e-46dd-bdc4-3c20a1029425" "Mike Richter Goes Green with NHL Panel at Fenway" %}}." National Hockey League.
 
-Dolf, Matt, and Leigh Pezzicara. "[Sport Organisations Tackle Sustainability](http://sustainable-sport.org/sport-organisations-tackle-sustainability/)." Sustainable Sport & Event Toolkit Centre.
+Dolf, Matt, and Leigh Pezzicara. "{{% resource_link "5118bc98-fd55-49ba-9e26-ec0825662f86" "Sport Organisations Tackle Sustainability" %}}." Sustainable Sport & Event Toolkit Centre.
 
 
 {{< tdclose >}}
@@ -57,13 +57,13 @@ Entrepreneurship and sustainability
 {{< tdopen >}}
 
 
-"[Stonyfield Farm CEO Discusses Sustainable Business](http://www.environmentalleader.com/2009/03/02/stonyfield-farm-ceo-discusses-sustainable-business/)." Environmental Leader.
+"{{% resource_link "7a40b2ee-5d20-4223-b45b-bc2071b7a45f" "Stonyfield Farm CEO Discusses Sustainable Business" %}}." Environmental Leader.
 
-"[Healthy Planet](https://web.archive.org/web/20091108064929/http://www.stonyfield.com/healthy_planet/index.jsp)." Stonyfield Organic.
+"{{% resource_link "c44aed5d-a8c3-4a5a-a8fb-3d77e34cfe15" "Healthy Planet" %}}." Stonyfield Organic.
 
-"[Stonyfield Farm](http://en.wikipedia.org/wiki/Stonyfield_Farm)." Wikipedia: The Free Encyclopedia.
+"{{% resource_link "c6f08eb9-5acb-454a-a432-069ecb95c857" "Stonyfield Farm" %}}." Wikipedia: The Free Encyclopedia.
 
-Beaupre, Andy. "[Social Cause and Sustainability Lessons from Stonyfield Farms' Hirshberg](https://cleanspeak.brodeur.com/blog/posts/social-cause-sustainability-lessons-from-stonyfield-farms-hirshberg/)." Checkmate: the beaupre blog.
+Beaupre, Andy. "{{% resource_link "1d0220f7-0286-45b9-8826-cb3dd1d25711" "Social Cause and Sustainability Lessons from Stonyfield Farms' Hirshberg" %}}." Checkmate: the beaupre blog.
 
 
 {{< tdclose >}}
@@ -91,13 +91,13 @@ Nonprofit organization to facilitate business teams
 {{< tdopen >}}
 
 
-"[Our Work with Private Equity](http://www.edf.org/page.cfm?tagID=56)." Environmental Defense Fund: Corporate Partnerships.
+"{{% resource_link "ac1fc6f5-3e8f-4d8a-8254-9f1b80bf45b2" "Our Work with Private Equity" %}}." Environmental Defense Fund: Corporate Partnerships.
 
-Envirodefensefund. "Innovation in Action — Corporate Partnerships at EDF: A case study of the hybrid truck market." April 28, 2009. YouTube. Accessed October 14, 2010. [http://www.youtube.com/watch?v=tXcVBDvc1C4&feature=player\_embedded](http://www.youtube.com/watch?v=tXcVBDvc1C4&feature=player_embedded)
+Envirodefensefund. "Innovation in Action — Corporate Partnerships at EDF: A case study of the hybrid truck market." April 28, 2009. YouTube. Accessed October 14, 2010. {{% resource_link "a171ea9e-e65d-41ec-bbfa-b0282ba75351" "http://www.youtube.com/watch?v=tXcVBDvc1C4&feature=player\_embedded" %}}
 
-"[Victoria Mills](http://www.edf.org/page.cfm?tagID=946)." Environmental Defense Fund: About Us.
+"{{% resource_link "3ea876ea-bf0d-4202-b78f-80c8b48ee434" "Victoria Mills" %}}." Environmental Defense Fund: About Us.
 
-"[Four Cs of Climate Action](http://innovation.edf.org/page.cfm?tagID=13142)." Environmental Defense Fund: Innovation Exchange.
+"{{% resource_link "46986890-b216-408c-9990-4e55d1dd883a" "Four Cs of Climate Action" %}}." Environmental Defense Fund: Innovation Exchange.
 
 
 {{< tdclose >}}
@@ -113,11 +113,11 @@ Teams of businesses
 {{< tdopen >}}
 
 
-Staff, GreenBiz. "[EPA, US BCSD Team for Projects Around the World](http://www.greenbiz.com/news/2007/07/31/epa-us-bcsd-team-projects-around-world)." GreenBiz.com.
+Staff, GreenBiz. "{{% resource_link "4f174239-b0b6-4202-a4df-9440e69af0ab" "EPA, US BCSD Team for Projects Around the World" %}}." GreenBiz.com.
 
 "U.S. Business Council and Ohio State Will Team on Ecosystem Services Valuation." U.S. Business Council for Sustainable Development.
 
-[U.S. Business Council for Sustainable Development Home Page](https://usbcsd.org/).
+{{% resource_link "be65e158-6348-4479-a73c-6f94015c2955" "U.S. Business Council for Sustainable Development Home Page" %}}.
 
 
 {{< tdclose >}}
@@ -133,9 +133,9 @@ Intersection of business, government, and nonprofit for policy
 {{< tdopen >}}
 
 
-"A Toolkit for Foundations and Individual Investors: Harnessing Your Investments to Help Solve the Climate Crisis." Ceres. ([PDF - 4.1MB](https://core.ac.uk/download/pdf/71355398.pdf)){{< sup "#" >}}
+"A Toolkit for Foundations and Individual Investors: Harnessing Your Investments to Help Solve the Climate Crisis." Ceres. ({{% resource_link "f5027906-a001-45b4-9202-8dfa5041048e" "PDF - 4.1MB" %}}){{< sup "#" >}}
 
-Download and read the PDF: "[The 21st Century Corporation: The Ceres Roadmap for Sustainability](http://www.ceres.org/ceresroadmap)." Ceres.
+Download and read the PDF: "{{% resource_link "2b49b469-4f61-4697-a49a-9bb272f4efa4" "The 21st Century Corporation: The Ceres Roadmap for Sustainability" %}}." Ceres.
 
 
 {{< tdclose >}}
@@ -159,6 +159,6 @@ No assigned readings
 Additional Reading Materials
 ----------------------------
 
-"U.S. Carbon Dioxide Emissions and Intensities Over Time: A Detailed Accounting of Industries, Government, and Households." U.S. Department of Commerce Economics and Statistics Administration. ([PDF](https://www.commerce.gov/data-and-reports/reports/2010/04/us-carbon-dioxide-emissions-and-intensities-over-time-detailed-accounting))
+"U.S. Carbon Dioxide Emissions and Intensities Over Time: A Detailed Accounting of Industries, Government, and Households." U.S. Department of Commerce Economics and Statistics Administration. ({{% resource_link "9c62be47-6a3d-46ef-9e94-93db9193a002" "PDF" %}})
 
-"Measuring the Green Economy." U.S. Department of Commerce Economics and Statistics Administration. ([PDF - 3.4MB](http://commerce.gov/data-and-reports/reports/2010/04/measuring-green-economy))
+"Measuring the Green Economy." U.S. Department of Commerce Economics and Statistics Administration. ({{% resource_link "850f8aec-8ad4-49cb-bd87-ebcfc614ae16" "PDF - 3.4MB" %}})

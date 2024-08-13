@@ -16,7 +16,7 @@ Lectures: 1 session / week for 7 weeks, 2.5 hours / session
 Introduction
 ------------
 
-Sustainability challenges organizations to address the implications — and responses — in their own operations and supply chain, products/services/markets, and community responsibilities. In the related core courses required for the [Sloan Sustainability Certificate](https://mitsloan.mit.edu/sustainability-initiative/sustainability-certificate), we've explored the development and implementation of strategies for sustainable organizations. You've also had the opportunity to work on in-progress sustainability projects in [S-Lab](/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008), and you have the concepts and methods of systems dynamics, and the background in global climate change.
+Sustainability challenges organizations to address the implications — and responses — in their own operations and supply chain, products/services/markets, and community responsibilities. In the related core courses required for the {{% resource_link "d6e06522-299d-4588-9f6a-773e855f7cdf" "Sloan Sustainability Certificate" %}}, we've explored the development and implementation of strategies for sustainable organizations. You've also had the opportunity to work on in-progress sustainability projects in [S-Lab](/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008), and you have the concepts and methods of systems dynamics, and the background in global climate change.
 
 The Professional Seminar in Sustainability has four major goals.
 
